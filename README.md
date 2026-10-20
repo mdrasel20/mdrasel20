@@ -56,7 +56,7 @@ I specialize in **Custom WordPress Theme Development, Bricks Builder, and Advanc
 
 ### 🤝 Let's Work Together
 
-###### I'm open to WordPress projects, freelance opportunities, and collaboration.
+<p>I'm open to WordPress projects, freelance opportunities, and collaboration.</p>
 
 
 
