@@ -181,7 +181,7 @@ I'm open to collaborating on exciting web projects, exploring innovative ideas, 
     <img src="https://img.shields.io/badge/LINKEDIN-00BFA6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/md_rasel_20" target="_blank">
-    <img src="https://img.shields.io/badge/X_TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
   <a href="https://www.instagram.com/rasel_md_20/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
