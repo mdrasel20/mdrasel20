@@ -140,7 +140,115 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
 
 ---
 ## 📌 FEATURED PROJECTS
-*Adding more projects soon!*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · 🏙️ East86th Street Association</h3>
+      <p>A custom WordPress website for a community organization, featuring responsive layouts and structured content.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Custom_Development-6C63FF?style=flat-square" alt="Custom Development">
+        <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/COMMUNITY_WEBSITE-0A7B83?style=for-the-badge" alt="Community Website">
+        <a href="https://east86th.org/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · 🌐 Translationary</h3>
+      <p>A professional bilingual business website for a language and content solutions company, featuring English and Spanish language support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
+        <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+        <img src="https://img.shields.io/badge/WPML-2481C1?style=flat-square" alt="WPML">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TRANSLATION_%26_LOCALIZATION_AGENCY-0A7B83?style=for-the-badge" alt="Translation & Localization Agency">
+        <a href="https://www.translationary.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · ✊ Design It For Us</h3>
+      <p>A website for a youth-led nonprofit organization focused on digital rights, advocacy, and creating a better online world.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Custom_Development-6C63FF?style=flat-square" alt="Custom Development">
+        <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/NONPROFIT_%26_ADVOCACY_WEBSITE-0A7B83?style=for-the-badge" alt="Nonprofit & Advocacy Website">
+        <a href="https://designitforus.org/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · ☁️ Kloudify</h3>
+      <p>A modern IT services website built with Bricks Builder, featuring responsive layouts, structured content, and a professional user experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
+        <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/IT_SERVICES_WEBSITE-0A7B83?style=for-the-badge" alt="IT Services Website">
+        <a href="https://kloudify.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+  <td width="50%" valign="top">
+    <h3>05 · 💎 S.S. Agencies</h3>
+    <p>A premium gemstone and jewelry website featuring elegant product displays, gemstone collections, services, and industry events.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
+      <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/GEMSTONE_%26_JEWELRY_WEBSITE-0A7B83?style=for-the-badge" alt="Gemstone & Jewelry Website">
+      <a href="https://ssagencies.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+    </p>
+  </td>
+  <td width="50%" valign="top">
+    <h3>06 · 🎹 Timothy Durkovic</h3>
+    <p>A custom musician portfolio website showcasing the artist's biography, upcoming concerts, recordings, and professional achievements through an elegant, responsive design.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Custom_Development-6C63FF?style=flat-square" alt="Custom Development">
+      <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/MUSICIAN_PORTFOLIO-0A7B83?style=for-the-badge" alt="Musician Portfolio">
+      <a href="https://www.timothydurkovic.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td width="50%" valign="top">
+  <h3>07 · 🎬 BYkids</h3>
+  <p>A custom website for a nonprofit organization empowering children to tell real-world stories through filmmaking, education, and creative storytelling.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Custom_Development-6C63FF?style=flat-square" alt="Custom Development">
+    <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/NONPROFIT_ORGANIZATION-0A7B83?style=for-the-badge" alt="Nonprofit Organization">
+    <a href="https://bykids.org/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+  </p>
+</td>
+</tr>
+
+  
+</table>
 
 ---
 
