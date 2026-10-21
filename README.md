@@ -261,7 +261,32 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
 
 <tr>
   <td width="50%" valign="top">
-  <h3>09 · 🖥️ KAI IT</h3>
+  <h3>09 · ⚖️ CODISCOVR</h3>
+  <p>A professional legal services website showcasing eDiscovery solutions, document review, information governance, and litigation support services for law firms and legal teams.</p>
+  <p>
+    <img src="https://img.shields.io/badge/WPBakery-0073AA?style=flat-square" alt="WPBakery">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/LEGAL_SERVICES-34495E?style=for-the-badge" alt="Legal Services">
+    <a href="https://codiscovr.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+  </p>
+</td>
+  <td width="50%" valign="top">
+  <h3>10 · 🤝 ConnectBridge</h3>
+  <p>A professional HR services website focused on employee leave and accommodation management, compliance requirements, and technology-driven administration solutions for employers.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Elementor_Pro-92003B?style=flat-square" alt="Elementor Pro">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/HR_SERVICES-34495E?style=for-the-badge" alt="HR Services">
+    <a href="https://www.connectbridge.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+  </p>
+</td>
+</tr>
+
+<tr>
+  <td width="50%" valign="top">
+  <h3>11 · 🖥️ KAI IT</h3>
   <p>A professional IT services website featuring hardware and software solutions, network security, data backup, and IT support, with Thai and English language support.</p>
   <p>
     <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
@@ -274,7 +299,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
   </p>
 </td>
   <td width="50%" valign="top">
-  <h3>10 · 🥗 Fresh Ready Thailand</h3>
+  <h3>12 · 🥗 Fresh Ready Thailand</h3>
   <p>A modern food and agriculture website showcasing fresh meal solutions, sustainable farming practices, local farmers, and healthy food products, with Thai and English language support.</p>
   <p>
     <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
@@ -290,7 +315,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
 
 <tr>
   <td width="50%" valign="top">
-  <h3>11 · 🏛️ Navigator Research</h3>
+  <h3>13 · 🏛️ Navigator Research</h3>
   <p>A political research website featuring public opinion polling, interactive data visualizations, research reports, and strategic messaging insights.</p>
   <p>
      <img src="https://img.shields.io/badge/Custom_Development-6C63FF?style=flat-square" alt="Custom Development">
@@ -304,7 +329,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
   </p>
 </td>
   <td width="50%" valign="top">
-  <h3>12 · 🏥 KAO Aesthetics</h3>
+  <h3>14 · 🏥 KAO Aesthetics</h3>
   <p>A beauty and aesthetics website showcasing cosmetic treatments, aesthetic services, skincare products, and professional treatment options.</p>
   <p>
     <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
