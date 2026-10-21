@@ -166,7 +166,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
         <img src="https://img.shields.io/badge/WPML-2481C1?style=flat-square" alt="WPML">
       </p>
       <p>
-        <img src="https://img.shields.io/badge/TRANSLATION_%26_LOCALIZATION_AGENCY-34495E?style=for-the-badge" alt="Translation & Localization Agency">
+        <img src="https://img.shields.io/badge/TRANSLATION_%26_LOCALIZATION-34495E?style=for-the-badge" alt="Translation & Localization Agency">
         <a href="https://www.translationary.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
       </p>
     </td>
@@ -183,7 +183,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       </p>
       <p>
-        <img src="https://img.shields.io/badge/NONPROFIT_%26_ADVOCACY_WEBSITE-34495E?style=for-the-badge" alt="Nonprofit & Advocacy Website">
+        <img src="https://img.shields.io/badge/NONPROFIT_%26_ADVOCACY-34495E?style=for-the-badge" alt="Nonprofit & Advocacy Website">
         <a href="https://designitforus.org/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
       </p>
     </td>
@@ -210,7 +210,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
       <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
     </p>
     <p>
-      <img src="https://img.shields.io/badge/GEMSTONE_%26_JEWELRY_WEBSITE-34495E?style=for-the-badge" alt="Gemstone & Jewelry Website">
+      <img src="https://img.shields.io/badge/GEMSTONE_%26_JEWELRY-34495E?style=for-the-badge" alt="Gemstone & Jewelry Website">
       <a href="https://ssagencies.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
     </p>
   </td>
