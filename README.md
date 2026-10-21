@@ -153,7 +153,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       </p>
       <p>
-        <img src="https://img.shields.io/badge/COMMUNITY_WEBSITE-0A7B83?style=for-the-badge" alt="Community Website">
+        <img src="https://img.shields.io/badge/COMMUNITY_WEBSITE-34495E?style=for-the-badge" alt="Community Website">
         <a href="https://east86th.org/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
       </p>
     </td>
@@ -166,7 +166,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
         <img src="https://img.shields.io/badge/WPML-2481C1?style=flat-square" alt="WPML">
       </p>
       <p>
-        <img src="https://img.shields.io/badge/TRANSLATION_%26_LOCALIZATION_AGENCY-0A7B83?style=for-the-badge" alt="Translation & Localization Agency">
+        <img src="https://img.shields.io/badge/TRANSLATION_%26_LOCALIZATION_AGENCY-34495E?style=for-the-badge" alt="Translation & Localization Agency">
         <a href="https://www.translationary.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
       </p>
     </td>
@@ -183,7 +183,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       </p>
       <p>
-        <img src="https://img.shields.io/badge/NONPROFIT_%26_ADVOCACY_WEBSITE-0A7B83?style=for-the-badge" alt="Nonprofit & Advocacy Website">
+        <img src="https://img.shields.io/badge/NONPROFIT_%26_ADVOCACY_WEBSITE-34495E?style=for-the-badge" alt="Nonprofit & Advocacy Website">
         <a href="https://designitforus.org/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
       </p>
     </td>
@@ -195,7 +195,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
         <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
       </p>
       <p>
-        <img src="https://img.shields.io/badge/IT_SERVICES_WEBSITE-0A7B83?style=for-the-badge" alt="IT Services Website">
+        <img src="https://img.shields.io/badge/IT_SERVICES_WEBSITE-34495E?style=for-the-badge" alt="IT Services Website">
         <a href="https://kloudify.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
       </p>
     </td>
@@ -210,7 +210,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
       <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
     </p>
     <p>
-      <img src="https://img.shields.io/badge/GEMSTONE_%26_JEWELRY_WEBSITE-0A7B83?style=for-the-badge" alt="Gemstone & Jewelry Website">
+      <img src="https://img.shields.io/badge/GEMSTONE_%26_JEWELRY_WEBSITE-34495E?style=for-the-badge" alt="Gemstone & Jewelry Website">
       <a href="https://ssagencies.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
     </p>
   </td>
@@ -224,7 +224,7 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     </p>
     <p>
-      <img src="https://img.shields.io/badge/MUSICIAN_PORTFOLIO-0A7B83?style=for-the-badge" alt="Musician Portfolio">
+      <img src="https://img.shields.io/badge/MUSICIAN_PORTFOLIO-34495E?style=for-the-badge" alt="Musician Portfolio">
       <a href="https://www.timothydurkovic.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
     </p>
   </td>
@@ -241,14 +241,92 @@ During my internship at ALOKIO, I assisted in developing and maintaining WordPre
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   </p>
   <p>
-    <img src="https://img.shields.io/badge/NONPROFIT_ORGANIZATION-0A7B83?style=for-the-badge" alt="Nonprofit Organization">
+    <img src="https://img.shields.io/badge/NONPROFIT_ORGANIZATION-34495E?style=for-the-badge" alt="Nonprofit Organization">
     <a href="https://bykids.org/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+  </p>
+</td>
+  <td width="50%" valign="top">
+  <h3>08 · ✈️ MJets</h3>
+  <p>A premium aviation website for a private jet services company, showcasing luxury charter services, aircraft fleet, ground handling, and aviation solutions.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
+    <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/AVIATION_WEBSITE-34495E?style=for-the-badge" alt="Aviation Website">
+    <a href="https://mjets.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+  </p>
+</td>
+</tr>
+
+<tr>
+  <td width="50%" valign="top">
+  <h3>09 · 🖥️ KAI IT</h3>
+  <p>A professional IT services website featuring hardware and software solutions, network security, data backup, and IT support, with Thai and English language support.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
+    <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+    <img src="https://img.shields.io/badge/WPML-2481C1?style=flat-square" alt="WPML">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/IT_SERVICES_WEBSITE-34495E?style=for-the-badge" alt="IT Services Website">
+    <a href="https://kai.co.th/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+  </p>
+</td>
+  <td width="50%" valign="top">
+  <h3>10 · 🥗 Fresh Ready Thailand</h3>
+  <p>A modern food and agriculture website showcasing fresh meal solutions, sustainable farming practices, local farmers, and healthy food products, with Thai and English language support.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
+    <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+    <img src="https://img.shields.io/badge/WPML-2481C1?style=flat-square" alt="WPML">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/FOOD_%26_AGRICULTURE-34495E?style=for-the-badge" alt="Food & Agriculture">
+    <a href="https://freshreadythailand.com/en/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+  </p>
+</td>
+</tr>
+
+<tr>
+  <td width="50%" valign="top">
+  <h3>11 · 🏛️ Navigator Research</h3>
+  <p>A political research website featuring public opinion polling, interactive data visualizations, research reports, and strategic messaging insights.</p>
+  <p>
+     <img src="https://img.shields.io/badge/Custom_Development-6C63FF?style=flat-square" alt="Custom Development">
+      <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/POLITICAL_RESEARCH-34495E?style=for-the-badge" alt="Political Research">
+    <a href="https://navigatorresearch.org/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
+  </p>
+</td>
+  <td width="50%" valign="top">
+  <h3>12 · 🏥 KAO Aesthetics</h3>
+  <p>A beauty and aesthetics website showcasing cosmetic treatments, aesthetic services, skincare products, and professional treatment options.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Bricks_Builder-FF6B35?style=flat-square" alt="Bricks Builder">
+    <img src="https://img.shields.io/badge/ACF-00A67E?style=flat-square" alt="ACF">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/BEAUTY_%26_AESTHETICS-34495E?style=for-the-badge" alt="Beauty & Aesthetics">
+    <a href="https://kaoaesthetics.com/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"></a>
   </p>
 </td>
 </tr>
 
   
 </table>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/mdrasel20">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects">
+  </a>
+</p>
 
 ---
 
